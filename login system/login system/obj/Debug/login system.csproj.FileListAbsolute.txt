@@ -1,0 +1,21 @@
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\bin\Debug\login system.exe.config
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\bin\Debug\login system.exe
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\bin\Debug\login system.pdb
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\obj\Debug\login system.csprojResolveAssemblyReference.cache
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\obj\Debug\login_system.Form1.resources
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\obj\Debug\login_system.Properties.Resources.resources
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\obj\Debug\login system.csproj.GenerateResource.Cache
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\obj\Debug\login system.exe
+\\skra\nem-redirect$\0501983759\documents\visual studio 2013\Projects\login system\login system\obj\Debug\login system.pdb
+\\skra\nem-redirect$\0501983759\Documents\Visual Studio 2013\Projects\login system\login system\bin\Debug\MySql.Data.dll
+\\skra\nem-redirect$\0501983759\Documents\Visual Studio 2013\Projects\login system\login system\obj\Debug\login_system.Main.resources
+C:\Users\0501983759\Desktop\login system\login system\bin\Debug\login system.exe.config
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login system.exe
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login system.pdb
+C:\Users\0501983759\Desktop\login system\login system\bin\Debug\login system.exe
+C:\Users\0501983759\Desktop\login system\login system\bin\Debug\login system.pdb
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login system.csprojResolveAssemblyReference.cache
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login_system.Form1.resources
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login_system.Main.resources
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login_system.Properties.Resources.resources
+C:\Users\0501983759\Desktop\login system\login system\obj\Debug\login system.csproj.GenerateResource.Cache
